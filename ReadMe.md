@@ -9,7 +9,7 @@ This repository contains the frontend implementation for the **SmartEvent** plat
 ### 1. User Registration Page
 *Filename: `user_register.html`*
 <br><br><br><br><br>
-**![capture3.PNG](capture3.PNG)
+**![capture](capture3.PNG)
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains the frontend implementation for the **SmartEvent** plat
 ### 4. Admin Login Page
 *Filename: `admin_login.html`*
 <br><br><br><br><br>
-**![capture.](capture.PNG)
+**![capture](capture.PNG)
 
 ---
 
