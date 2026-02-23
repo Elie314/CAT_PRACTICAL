@@ -23,7 +23,7 @@ This repository contains the frontend implementation for the **SmartEvent** plat
 ### 3. User Dashboard
 *Filename: `userdashboard.html`*
 <br><br><br><br><br>
-![Capture One](capture1.PNG)
+![Capture One](Capture1.PNG)
 
 ---
 
