@@ -9,7 +9,7 @@ This repository contains the frontend implementation for the **SmartEvent** plat
 ### 1. User Registration Page
 *Filename: `user_register.html`*
 <br><br><br><br><br>
-![capture](capture3.PNG)
+![capture3](capture3.PNG)
 
 ---
 
